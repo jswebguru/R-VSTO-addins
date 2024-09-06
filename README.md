@@ -206,15 +206,6 @@ Distributed under the GPL-3.0 License. See `LICENSE.md` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTACT -->
-## Contact
-
-Adam Gladstone - (https://www.linkedin.com/in/adam-gladstone-b6458b156/)
-
-Project Link: [https://github.com/Adam-Gladstone/Office365AddIns](https://github.com/Adam-Gladstone/Office365AddIns)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
@@ -230,12 +221,3 @@ Helpful resources
 <!-- PROJECT SHIELDS -->
 [![GPL-3 License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-
-[license-shield]: https://img.shields.io/github/license/Adam-Gladstone/Office365AddIns.svg?style=for-the-badge
-[license-url]: https://github.com/Adam-Gladstone/Office365AddIns/blob/master/LICENSE.md
-
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/adam-gladstone-b6458b156/
