@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Adam-Gladstone/Office365AddIns">
+  <a href="https://github.com/jswebguru/R-VSTO-addins">
     <img src="Images/script.png" alt="logo" width="80" height="80">
   </a>
 
@@ -14,12 +14,12 @@
 
   <p align="center">
     <br />
-    <a href="https://github.com/Adam-Gladstone/Office365AddIns"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/jswebguru/R-VSTO-addins"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Adam-Gladstone/Office365AddIns/issues">Report Bug</a>
+    <a href="https://github.com/jswebguru/R-VSTO-addins/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Adam-Gladstone/Office365AddIns/issues">Request Feature</a>
+    <a href="https://github.com/jswebguru/R-VSTO-addins/issues">Request Feature</a>
   </p>
 </div>
 
@@ -195,7 +195,7 @@ The Forecast.xlsx spreadsheet provides examples of these based on the underlying
 Future directions:
 - [ ] Add Changelog
 
-See the [open issues](https://github.com/Adam-Gladstone/Office365AddIns/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/jswebguru/R-VSTO-addins/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
